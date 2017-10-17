@@ -209,7 +209,7 @@
         
         '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=fall%2520diy%2520projects%2520dollar%2520stores&rs=guide&term_meta%5B%5D=fall%257Ctyped&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=projects%257Cguide%257Cword%257C2&add_refine=dollar%2520stores%257Cguide%257Cword%257C5"></a>',
         
-        '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=september%2520diy%2520ideas&rs=guide&term_meta%5B%5D=september%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=ideas%257Cguide%257Cword%257C2"></a>'
+        '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=september%2520diy%2520ideas&rs=guide&term_meta%5B%5D=september%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=ideas%257Cguide%257Cword%257C2"></a>',
 
         '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?rs=ac&len=2&q=school%2520organization&eq=school&etslf=33184&term_meta%5B%5D=school%257Cautocomplete%257Cundefined&term_meta%5B%5D=organization%257Cautocomplete%257Cundefined"></a>'
         
