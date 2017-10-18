@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="assets/css/bootstrap.css">
+<!-- <link rel="stylesheet" href="assets/css/bootstrap.css">
 
 
 
@@ -15,11 +15,12 @@
           <img src="assets/dist/images/weatherillustration.png" alt="awesome illustration">
         </div>
     </div>
+    asdgnjngdkjnds
   
 
 
 
-    </main>
+    </main> -->
   <!-- END Main Content -->
 
    

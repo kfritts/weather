@@ -1,15 +1,22 @@
-
-<link rel="stylesheet" href="../assets/css/bootstrap.css">
-
-<?php include 'forecast.php' ?>
-<?php include 'partials/header.php' ?>
-<?php include 'partials/form.php' ?>
-<pre>
-  <?php //print_r($forecast); ?>
-</pre>
+<?php 
+include'partials/header.php'; 
+include'../app/forecast.php'; 
+  
+?>
 
 
-<!-- This is the "currently card" -->
+
+<!-- <! This is the "currently card" --> 
+<!-- <form action="../results.php" method="post">
+  <div class="form-group">
+    <label class="sr-only" for="location">Location</label>
+    <input type="text" class="form-control" id="location" aria-describedby="location-help" placeholder="Enter zipcode or city" name="location" value="<?php echo (isset($_POST['location']) ? $_POST['location'] : '') ?>">
+  </div>
+  <button type="submit" name="submit" class="btn">Search</button>
+</form> -->
+
+
+
 <div class="container">
   
   <div class="card p-4 my-5 mx-auto" style="max-width: 320px;">
@@ -29,9 +36,7 @@
 </div>
 <!-- End of Currently card -->
   
-  
-
- 
+  hi is this thing on?
 
     <!-- Card Grid Daily -->
       <div class="row">
@@ -40,6 +45,7 @@
       <!-- Card 1 -->
         <div class="col-10 col-md-4">
           <div class="card mb-0">
+
            
             <?php echo gmdate("l", $day['time']); ?>
             <h2 class="m-0">
@@ -48,7 +54,11 @@
              <p class="lead text-center">
             <?php echo $day['summary']; ?>
           </p>
-            <img src="images/" alt="" class="card-img-top img-fluid">
+            <img src="assets/dist/images/<?php echo $forecast['currently']['icon'];?>.png" alt="icon" class="
+            width="100"
+            Height="100"
+            class="mx-auto"
+            
             <div class="card-body">
               <h2 class="card-title h4">
                 Morning
@@ -155,35 +165,28 @@
 
 
 
-
-
-
-
-
-
-
-
     <!-- END Card Grid -->
-
 
 <!-- Diy section -->
 <div class="content">
   <h1>Daily Diy</h1>
+<div class="col-12 ">
+  
+</div>
+
+
+
 </div>
 
 
 
 
+<!-- Footer -->
 
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+      <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
-
-
-
-<?php echo $the_diys;
- ?>
-
-<?php  include'partials/footer.php';?>
-<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
-
-</body>
-</html>
+  </body>
+</html> -->
