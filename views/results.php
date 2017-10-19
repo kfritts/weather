@@ -4,16 +4,16 @@ include'../app/forecast.php';
   
 ?>
 
-
+hello !
 
 <!-- <! This is the "currently card" --> 
-<!-- <form action="../results.php" method="post">
+<form action="../results.php" method="post">
   <div class="form-group">
     <label class="sr-only" for="location">Location</label>
     <input type="text" class="form-control" id="location" aria-describedby="location-help" placeholder="Enter zipcode or city" name="location" value="<?php echo (isset($_POST['location']) ? $_POST['location'] : '') ?>">
   </div>
   <button type="submit" name="submit" class="btn">Search</button>
-</form> -->
+</form>
 
 
 

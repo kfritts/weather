@@ -81,7 +81,7 @@
                   '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520outdoor%2520theater&rs=typed&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=outdoor%257Ctyped&term_meta%5B%5D=theater%257Ctyped"></a>'
                 ),
 
-          $hot= array(
+          $cold= array(
               
                   '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520projects%2520cold%2520weather&rs=typed&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=projects%257Ctyped&term_meta%5B%5D=cold%257Ctyped&term_meta%5B%5D=weather%257Ctyped"></a>',
 
@@ -105,121 +105,7 @@
 
 
 
-    // $months = array
-    // ( 
-
-    //     array("october",
-               
-    //                  '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=october%2520diy&rs=typed&term_meta%5B%5D=october%257Ctyped&term_meta%5B%5D=diy%257Ctyped"></a>',
-                          
-    //                   '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=october%2520diy%2520fun&rs=guide&term_meta%5B%5D=october%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=fun%257Cguide%257Cword%257C4"></a>',
-                          
-    //                    '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=dollar%2520store%2520halloween%2520diy&rs=guide&term_meta%5B%5D=halloween%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=dollar%2520store%257Cguide%257Cword%257C4"></a>',
-                          
-    //                    '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520halloween%2520party&rs=typed&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=halloween%257Ctyped&term_meta%5B%5D=party%257Ctyped"></a>',
-
-    //                    '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520haunted%2520houses&rs=typed&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=haunted%257Ctyped&term_meta%5B%5D=houses%257Ctyped"></a>',
-    //                   ),
-
-                
-    //       array("november",
-                  
-    //               '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520november&rs=typed&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=november%257Ctyped"></a>',
-                  
-    //               '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520november%2520decorations&rs=guide&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=november%257Ctyped&add_refine=decorations%257Cguide%257Cword%257C1"></a>',
-                  
-    //               '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?rs=ac&len=2&q=diy%2520thanksgiving%2520centerpiece%2520ideas&eq=diy%2520thanksgiving&etslf=17645&term_meta%5B%5D=diy%257Cautocomplete%257Cundefined&term_meta%5B%5D=thanksgiving%257Cautocomplete%257Cundefined&term_meta%5B%5D=centerpiece%257Cautocomplete%257Cundefined&term_meta%5B%5D=ideas%257Cautocomplete%257Cundefined"></a>',
-                  
-    //               '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520thanksgiving%2520treats&rs=guide&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=thanksgiving%257Ctyped&add_refine=treats%257Cguide%257Cword%257C7"></a>'
-
-    //             ),
-
-            
-    //       array( "december",
-              
-    //             '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520december%2520crafts&rs=guide&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=december%257Ctyped&add_refine=crafts%257Cguide%257Cword%257C1"></a>',
-                
-    //             '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=christmas%2520decor&rs=typed&term_meta%5B%5D=christmas%257Ctyped&term_meta%5B%5D=decor%257Ctyped"></a>',
-                
-    //             '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=budget%2520friendly%2520christmas%2520decorations&rs=guide&term_meta%5B%5D=budget%257Ctyped&term_meta%5B%5D=friendly%257Ctyped&term_meta%5B%5D=christmas%257Ctyped&add_refine=decorations%257Cguide%257Cword%257C1"></a>',
-                
-    //             '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=christmas%2520gifts%2520diy&rs=typed&term_meta%5B%5D=christmas%257Ctyped&term_meta%5B%5D=gifts%257Ctyped&term_meta%5B%5D=diy%257Ctyped"></a>',
-
-    //             '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520newyears%2520party&rs=typed&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=newyears%257Ctyped&term_meta%5B%5D=party%257Ctyped"></a>'
-
-    //         ),
-
-            
-    //       array("february",
-              
-    //               '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520valentines%2520day&rs=typed&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=valentines%257Ctyped&term_meta%5B%5D=day%257Ctyped"></a>',
-                  
-    //               '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520valentines%2520day%2520crafts&rs=guide&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=valentines%257Ctyped&term_meta%5B%5D=day%257Ctyped&add_refine=crafts%257Cguide%257Cword%257C2"></a>',
-                  
-    //               '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=anti%2520valentines%2520day%2520party&rs=guide"></a>'
-    //         ),
-
-
-    //         array("march",
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=spring%2520diy&rs=typed&term_meta%5B%5D=spring%257Ctyped&term_meta%5B%5D=diy%257Ctyped"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=spring%2520diy%2520projects%2520dollar%2520stores%2520organization%2520ideas&rs=guide&term_meta%5B%5D=projects%257Cguide%257Cword%257C4&term_meta%5B%5D=dollar%2520stores%257Cguide%257Cword%257C0&add_refine=organization%2520ideas%257Cguide%257Cword%257C9"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?rs=ac&len=2&q=st%2520patricks%2520day%2520party&eq=st%2520patr&etslf=7447&term_meta%5B%5D=st%257Cautocomplete%257Cundefined&term_meta%5B%5D=patricks%257Cautocomplete%257Cundefined&term_meta%5B%5D=day%257Cautocomplete%257Cundefined&term_meta%5B%5D=party%257Cautocomplete%257Cundefined"></a>',
-
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=st%2520patricks%2520day%2520activities%2520for%2520adults&rs=guide&term_meta%5B%5D=st%257Ctyped&term_meta%5B%5D=patricks%257Ctyped&term_meta%5B%5D=day%257Ctyped&term_meta%5B%5D=activities%257Ctyped&add_refine=for%2520adults%257Cguide%257Cword%257C2"></a>'
-    //             ),
-
-    //          array("may",
-              
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=diy%2520mothersday%2520gifts%2520mom&rs=guide&term_meta%5B%5D=diy%257Cautocomplete%257Cundefined&term_meta%5B%5D=motherday%257Cautocomplete%257Cundefined&term_meta%5B%5D=gifts%257Cautocomplete%257Cundefined&add_refine=mom%257Cguide%257Cword%257C1"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=cheap%2520gift%2520ideas%2520diy&rs=guide"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=spring%2520cleaning&rs=typed&term_meta%5B%5D=spring%257Ctyped&term_meta%5B%5D=cleaning%257Ctyped"></a>'
-
-    //              ),
-
-            
-    //          array("june",
-              
-
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=fathers%2520day%2520diy&rs=typed&term_meta%5B%5D=fathers%257Ctyped&term_meta%5B%5D=day%257Ctyped&term_meta%5B%5D=diy%257Ctyped"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=summer%2520diy%2520for%2520adults&rs=guide&term_meta%5B%5D=summer%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=for%2520adults%257Cguide%257Cword%257C3"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=june%2520diy%2520projects&rs=guide&term_meta%5B%5D=june%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=projects%257Cguide%257Cword%257C1"></a>',
-
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=summer%2520budget%2520fun&rs=typed&term_meta%5B%5D=summer%257Ctyped&term_meta%5B%5D=budget%257Ctyped&term_meta%5B%5D=fun%257Ctyped"></a>'
-    //             ),
-
-            
-
-    //          array("july",
-              
-
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=july%2520diy&rs=typed&term_meta%5B%5D=july%257Ctyped&term_meta%5B%5D=diy%257Ctyped"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=july%2520diy%2520decor&rs=guide&term_meta%5B%5D=july%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=decor%257Cguide%257Cword%257C2"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=budget%2520bbq%2520party&rs=guide&term_meta%5B%5D=budget%257Ctyped&term_meta%5B%5D=bbq%257Ctyped&add_refine=party%257Cguide%257Cword%257C1"></a>'
-    //               ),
-
-            
-    //          array("september",
-              
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=fall%2520diy&rs=typed&term_meta%5B%5D=fall%257Ctyped&term_meta%5B%5D=diy%257Ctyped"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=fall%2520diy%2520projects%2520dollar%2520stores&rs=guide&term_meta%5B%5D=fall%257Ctyped&term_meta%5B%5D=diy%257Ctyped&term_meta%5B%5D=projects%257Cguide%257Cword%257C2&add_refine=dollar%2520stores%257Cguide%257Cword%257C5"></a>',
-                    
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?q=september%2520diy%2520ideas&rs=guide&term_meta%5B%5D=september%257Ctyped&term_meta%5B%5D=diy%257Ctyped&add_refine=ideas%257Cguide%257Cword%257C2"></a>',
-
-    //                 '<a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/search/pins/?rs=ac&len=2&q=school%2520organization&eq=school&etslf=33184&term_meta%5B%5D=school%257Cautocomplete%257Cundefined&term_meta%5B%5D=organization%257Cautocomplete%257Cundefined"></a>'
-              
-    //               )
-
-    // );
+    
     
 
 $temp=$forecast['currently']['temperature'];
